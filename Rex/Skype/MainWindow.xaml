@@ -1,0 +1,24 @@
+﻿<Window x:Class="Skype.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Skype" Height="560" Width="355" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <WebBrowser HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch"
+                    Name="Browser"
+                    Width="347" Visibility="Hidden"/>
+        <Label Content="LOADING..." 
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Name="load"
+               FontSize="30"
+               RenderTransformOrigin="1.251,0.654" Margin="1,234"/>
+        <Label Content="Please wait a moment" 
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Name="wait"
+               FontSize="20"
+               RenderTransformOrigin="1.251,0.654" Margin="73,290,63,205" Width="213" Height="36"/>
+
+    </Grid>
+</Window>

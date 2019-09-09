@@ -1,0 +1,13 @@
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\bin\Debug\Skype.exe.config
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\bin\Debug\Skype.exe
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\bin\Debug\Skype.pdb
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\Skype.csprojResolveAssemblyReference.cache
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\MainWindow.baml
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\MainWindow.g.cs
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\App.g.cs
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\Skype_MarkupCompile.cache
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\Skype.g.resources
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\Skype.Properties.Resources.resources
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\Skype.csproj.GenerateResource.Cache
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\Skype.exe
+c:\users\adeoluwa\documents\visual studio 2013\Projects\Skype\Skype\obj\Debug\Skype.pdb

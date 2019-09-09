@@ -1,0 +1,15 @@
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.csprojAssemblyReference.cache
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.About.resources
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.RexEditor.resources
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.Properties.Resources.resources
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.csproj.GenerateResource.cache
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.csproj.CoreCompileInputs.cache
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.exe
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.pdb
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\bin\Debug\Rex.exe.config
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\bin\Debug\Rex.exe.manifest
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\bin\Debug\Rex.application
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\bin\Debug\Rex.exe
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\bin\Debug\Rex.pdb
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.exe.manifest
+C:\Users\Adeoluwa\Documents\Visual Studio 2013\Projects\Rex\Rex\obj\Debug\Rex.application
